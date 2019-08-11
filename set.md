@@ -2,7 +2,8 @@
 
 
 ## __Docker カスタマイズ__
----
+
+
 ## __Jupyter カスタマイズ__
 
 ### ■ __初期ディレクトリの変更__
@@ -49,4 +50,4 @@ var patch = {
 config.update{patch}  
 
 
----
+
