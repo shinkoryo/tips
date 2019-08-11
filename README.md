@@ -1,2 +1,4 @@
 # tips
-## 仕事Tips
+##
+
+ [Google](http://google.com "Title")
