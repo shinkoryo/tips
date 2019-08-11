@@ -1,6 +1,7 @@
 # tips
-## 仕事をする上、必要な知識をまとめるページです。
+仕事に、必要な知識をまとめるページです。
 
+---
 ## 環境
 [Linux](https://github.com/shinkoryo/tips/blob/master/linux.md)
 
@@ -16,6 +17,7 @@
 
 [Redmine](https://github.com/shinkoryo/tips/blob/master/redmine.md)
 
+---
 ## プログラム
 [Python](https://github.com/shinkoryo/tips/blob/master/python.md)
 
@@ -23,6 +25,7 @@
 
 [salesforce](https://github.com/shinkoryo/tips/blob/master/salesforce.md)
 
+---
 ## AI
 [Math](https://github.com/shinkoryo/tips/blob/master/math.md)
 
@@ -30,7 +33,7 @@
 
 [Deep Learning](https://github.com/shinkoryo/tips/blob/master/deeplearning.md)
 
-
+---
 ## 各種リンク
 
 [Links](https://github.com/shinkoryo/tips/blob/master/link.md)
@@ -39,5 +42,6 @@
 
 [study](https://github.com/shinkoryo/tips/blob/master/study.md)
 
+---
 ### パソコン初期設定
 [set](https://github.com/shinkoryo/tips/blob/master/set.md)
