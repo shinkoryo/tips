@@ -33,7 +33,7 @@ __h1 h2 h3 h4 h5 インデント設定__
  - .rendered_html h1  
    font-weight: normal; ⇒ font-weight: 700;  
    #126dce ⇒ #1254ce  
- margin-bottom: 0.3em !important; の下に margin-left: 0em !important; を追加
+ margin-bottom: 0.2em !important; の下に margin-left: 0em !important; を追加
 
 ### __■ 行数を表示する__
 - __custom.jsファイルに下記PRGを追加__  
