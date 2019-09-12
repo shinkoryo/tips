@@ -7,6 +7,13 @@ b <->d : test
 @enduml
 ```
 
+```plantuml
+@startuml
+C -> D : hello
+G <->F : test
+@enduml
+```
+
 ```python
 # -*- coding: utf-8 -*-
 import sys
