@@ -7,12 +7,17 @@ b <->d : test
 @enduml
 ```
 
+## 図1
+
 ```plantuml
 @startuml
 C -> D : hello
 G <->F : test
 @enduml
 ```
+
+## 図2
+
 
 ```python
 # -*- coding: utf-8 -*-
