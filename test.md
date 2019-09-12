@@ -1,5 +1,12 @@
 # Python Code
 
+```plantuml
+@startuml
+A -> B : hello
+b <->d : test
+@enduml
+```
+
 ```python
 # -*- coding: utf-8 -*-
 import sys
