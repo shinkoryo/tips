@@ -4,7 +4,7 @@
 https://www.school.ctc-g.co.jp/columns/miyazaki/miyazaki01.html  
 
 ### docker のインストール
-https://qiita.com/iganari/items/fe4889943f22fd63692a  
+https://qiita.com/iganari/items/fe4889943f22fd63692a
 <<<<<<< HEAD
 https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-using-the-repository  
 
